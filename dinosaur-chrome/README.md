@@ -1,4 +1,4 @@
-# Chrome Dinosaur Game (Java Swing)
+# 🦖  Chrome Dinosaur Game (Java Swing)
 
 A fast-paced Chrome Dinosaur clone built with **Java Swing**.  
 Jump over cacti, duck under birds, and beat your high score!
